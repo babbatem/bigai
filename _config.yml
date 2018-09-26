@@ -1,0 +1,36 @@
+# site settings
+title: bigAI
+subtitle: at Brown
+email: abba@brown.edu
+description: Brown Integrated General Artifical Intelligence
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "bigai.cs.brown.edu" # the base hostname & protocol for your site
+author:
+street_address: 115 Waterman St.
+city: Providence
+state: RI
+zip_code: 02906
+country: United States of America
+phone: (401) 863-7600
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
