@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
+title: Press & Publications
 nav-menu: true
+image: assets/images/baxter-flower.jpg
 ---
 
 <!-- Main -->

@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Welcome to bigAI @ Brown!
+Feel free to get in touch with us!
