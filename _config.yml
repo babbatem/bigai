@@ -15,7 +15,7 @@ phone: (401) 863-7600
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 25
 
 # social settings
 500px_url:
