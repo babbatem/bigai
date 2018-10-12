@@ -17,7 +17,7 @@ show_tile: true
 		</header>
 <!-- Content -->
 <h2 id="content">2018</h2>
-<p> I've got good news, and bad news. The bad news is: I haven't added the good news yet.  </p>
+<p> I've got good news and bad news. The bad news is: I haven't added the good news yet.  </p>
 
 <h2 id="content">2017</h2>
 <h2 id="content">(etc.)</h2>

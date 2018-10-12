@@ -14,9 +14,9 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Research Groups in bigAI</h2>
+			<h2>Professors</h2>
 		</header>
-		<p>Several groups within BrownCS are working together to realize our dream of intelligent robots.</p>
+		<p>Several of our faculty members and their students are working together to realize our dream of intelligent robots.</p>
 	</div>
 </section>
 
@@ -72,13 +72,32 @@ show_tile: true
 	</section>
 </section>
 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Students</h2>
+		</header>
+		<p>Meet the students!</p>
+	</div>
+</section>
+
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h2>Robots</h2>
+		</header>
+		<p>Meet the robots!</p>
+	</div>
+</section>
+
 <!-- Three -->
 <section id="three">
 	<div class="inner">
 		<header class="major">
 			<h2>Get in touch!</h2>
 		</header>
-		<p> If you have questions or want to learn more, send us a message below! If you'd like to contact a professor directly, see their homepage for contact information. In the meantime, check out our mission statement.
+		<p> If you have questions or want to learn more, send us a message below! In the meantime, check out our mission statement.
 		 </p>
 		<ul class="actions">
 			<li><a href="about.html" class="button next">Mission</a></li>

@@ -1,3 +1,8 @@
+---
+nav-menu: false
+show_tile: false
+---
+
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -317,24 +322,24 @@ Finally, this is a <a href="#">link</a>.</p>
 		</div>
 		<!-- Break -->
 		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-low" name="demo-priority" checked="" />
+			<input type="radio" id="demo-priority-low" name="demo-priority" checked>
 			<label for="demo-priority-low">Low</label>
 		</div>
 		<div class="4u 12u$(small)">
-			<input type="radio" id="demo-priority-normal" name="demo-priority" />
+			<input type="radio" id="demo-priority-normal" name="demo-priority">
 			<label for="demo-priority-normal">Normal</label>
 		</div>
 		<div class="4u$ 12u$(small)">
-			<input type="radio" id="demo-priority-high" name="demo-priority" />
+			<input type="radio" id="demo-priority-high" name="demo-priority">
 			<label for="demo-priority-high">High</label>
 		</div>
 		<!-- Break -->
 		<div class="6u 12u$(small)">
-			<input type="checkbox" id="demo-copy" name="demo-copy" />
+			<input type="checkbox" id="demo-copy" name="demo-copy">
 			<label for="demo-copy">Email me a copy</label>
 		</div>
 		<div class="6u$ 12u$(small)">
-			<input type="checkbox" id="demo-human" name="demo-human" checked="" />
+			<input type="checkbox" id="demo-human" name="demo-human" checked>
 			<label for="demo-human">I am a human</label>
 		</div>
 		<!-- Break -->
