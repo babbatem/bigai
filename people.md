@@ -166,12 +166,15 @@ show_tile: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Get in touch!</h2>
+			<h2>That's all, folks. </h2>
 		</header>
-		<p> If you have questions or want to learn more, send us a message below! In the meantime, check out our mission statement.
+		<p> Check out bigAI in the press, and see our publications.
 		 </p>
 		<ul class="actions">
-			<li><a href="about.html" class="button next">Mission</a></li>
+			<li><a href="press.html" class="button next">Press</a></li>
+		</ul>
+		<ul class="actions">
+			<li><a href="pubs.html" class="button next">Publications</a></li>
 		</ul>
 	</div>
 </section>

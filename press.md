@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Press & Publications
+title: Press
 nav-menu: true
 image: assets/images/baxter-flower.jpg
 show_tile: true
@@ -86,17 +86,3 @@ Retrieved at <a href="https://pratt.duke.edu/about/news/robotic-motion-planning-
 <h2 id="content">(to be continued!)</h2>
 </div>
 </section>
-
-<!-- TWO -->
-<section id="two">
-	<div class="inner">
-		<header class="major">
-			<h1>Publications</h1>
-		</header>
-<!-- Content -->
-<p> Please find the publications of each PI in bigAI on their respective pages below: <br />
-<strong>George Konidaris</strong>: <a href="http://irl.cs.brown.edu/publications.php">http://irl.cs.brown.edu/publications.php </a> <br />
-
-<strong>Stefanie Tellex</strong>: <a href="http://h2r.cs.brown.edu/publications/">http://h2r.cs.brown.edu/publications/ </a> <br />
-
-<strong>Michael Littman</strong>: <a href="https://dblp.uni-trier.de/pers/hd/l/Littman:Michael_L=.html" > https://dblp.uni-trier.de/pers/hd/l/Littman:Michael_L=.html </a> <br />

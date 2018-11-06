@@ -1,0 +1,1463 @@
+@inproceedings{DBLP:conf/atal/RoderickGT18,
+  author    = {Melrose Roderick and
+               Christopher Grimm and
+               Stefanie Tellex},
+  title     = {Deep Abstract Q-Networks},
+  booktitle = {Proceedings of the 17th International Conference on Autonomous Agents
+               and MultiAgent Systems, {AAMAS} 2018, Stockholm, Sweden, July 10-15,
+               2018},
+  pages     = {131--138},
+  year      = {2018},
+  crossref  = {DBLP:conf/atal/2018},
+  url       = {http://dl.acm.org/citation.cfm?id=3237409},
+  timestamp = {Mon, 16 Jul 2018 09:20:52 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/atal/RoderickGT18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icra/WilliamsGRT18,
+  author    = {Edward C. Williams and
+               Nakul Gopalan and
+               Mina Rhee and
+               Stefanie Tellex},
+  title     = {Learning to Parse Natural Language to Grounded Reward Functions with
+               Weak Supervision},
+  booktitle = {2018 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2018, Brisbane, Australia, May 21-25, 2018},
+  pages     = {1--7},
+  year      = {2018},
+  crossref  = {DBLP:conf/icra/2018},
+  url       = {https://doi.org/10.1109/ICRA.2018.8460937},
+  doi       = {10.1109/ICRA.2018.8460937},
+  timestamp = {Wed, 19 Sep 2018 08:18:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icra/WilliamsGRT18},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1808-03322,
+  author    = {Nicholas DeMarinis and
+               Stefanie Tellex and
+               Vasileios Kemerlis and
+               George Konidaris and
+               Rodrigo Fonseca},
+  title     = {Scanning the Internet for {ROS:} {A} View of Security in Robotics
+               Research},
+  journal   = {CoRR},
+  volume    = {abs/1808.03322},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1808.03322},
+  archivePrefix = {arXiv},
+  eprint    = {1808.03322},
+  timestamp = {Sun, 02 Sep 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1808-03322},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1809-00037,
+  author    = {Stefanie Tellex and
+               Andy Brown and
+               Sergei Lupashin},
+  title     = {Estimation for Quadrotors},
+  journal   = {CoRR},
+  volume    = {abs/1809.00037},
+  year      = {2018},
+  url       = {http://arxiv.org/abs/1809.00037},
+  archivePrefix = {arXiv},
+  eprint    = {1809.00037},
+  timestamp = {Fri, 05 Oct 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1809-00037},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/acl/KaramchetiWARGW17,
+  author    = {Siddharth Karamcheti and
+               Edward C. Williams and
+               Dilip Arumugam and
+               Mina Rhee and
+               Nakul Gopalan and
+               Lawson L. S. Wong and
+               Stefanie Tellex},
+  title     = {A Tale of Two DRAGGNs: {A} Hybrid Approach for Interpreting Action-Oriented
+               and Goal-Oriented Instructions},
+  booktitle = {Proceedings of the First Workshop on Language Grounding for Robotics,
+               RoboNLP@ACL 2017, Vancouver, Canada, August 3, 2017},
+  pages     = {67--75},
+  year      = {2017},
+  crossref  = {DBLP:conf/acl/2017robonlp},
+  url       = {https://aclanthology.info/papers/W17-2809/w17-2809},
+  timestamp = {Thu, 25 Jan 2018 15:08:50 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/acl/KaramchetiWARGW17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/aips/GopalandLMSTWW17,
+  author    = {Nakul Gopalan and
+               Marie desJardins and
+               Michael L. Littman and
+               James MacGlashan and
+               Shawn Squire and
+               Stefanie Tellex and
+               John Winder and
+               Lawson L. S. Wong},
+  title     = {Planning with Abstract Markov Decision Processes},
+  booktitle = {Proceedings of the Twenty-Seventh International Conference on Automated
+               Planning and Scheduling, {ICAPS} 2017, Pittsburgh, Pennsylvania, USA,
+               June 18-23, 2017.},
+  pages     = {480--488},
+  year      = {2017},
+  crossref  = {DBLP:conf/aips/2017},
+  url       = {https://aaai.org/ocs/index.php/ICAPS/ICAPS17/paper/view/15759},
+  timestamp = {Wed, 12 Sep 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/aips/GopalandLMSTWW17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icra/WhitneyRMWT17,
+  author    = {David Whitney and
+               Eric Rosen and
+               James MacGlashan and
+               Lawson L. S. Wong and
+               Stefanie Tellex},
+  title     = {Reducing errors in object-fetching interactions through social feedback},
+  booktitle = {2017 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2017, Singapore, Singapore, May 29 - June 3, 2017},
+  pages     = {1006--1013},
+  year      = {2017},
+  crossref  = {DBLP:conf/icra/2017},
+  url       = {https://doi.org/10.1109/ICRA.2017.7989121},
+  doi       = {10.1109/ICRA.2017.7989121},
+  timestamp = {Wed, 26 Jul 2017 15:16:56 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icra/WhitneyRMWT17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/rss/ArumugamKGWT17,
+  author    = {Dilip Arumugam and
+               Siddharth Karamcheti and
+               Nakul Gopalan and
+               Lawson L. S. Wong and
+               Stefanie Tellex},
+  title     = {Accurately and Efficiently Interpreting Human-Robot Instructions of
+               Varying Granularities},
+  booktitle = {Robotics: Science and Systems XIII, Massachusetts Institute of Technology,
+               Cambridge, Massachusetts, USA, July 12-16, 2017},
+  year      = {2017},
+  crossref  = {DBLP:conf/rss/2017},
+  url       = {http://www.roboticsproceedings.org/rss13/p56.html},
+  timestamp = {Mon, 15 Jan 2018 18:49:27 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/ArumugamKGWT17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/rss/OberlinT17,
+  author    = {John Oberlin and
+               Stefanie Tellex},
+  title     = {Time-Lapse Light Field Photography for Perceiving Non-Lambertian Scenes},
+  booktitle = {Robotics: Science and Systems XIII, Massachusetts Institute of Technology,
+               Cambridge, Massachusetts, USA, July 12-16, 2017},
+  year      = {2017},
+  crossref  = {DBLP:conf/rss/2017},
+  url       = {http://www.roboticsproceedings.org/rss13/p26.html},
+  timestamp = {Mon, 15 Jan 2018 18:49:27 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/OberlinT17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/ArumugamKGWT17,
+  author    = {Dilip Arumugam and
+               Siddharth Karamcheti and
+               Nakul Gopalan and
+               Lawson L. S. Wong and
+               Stefanie Tellex},
+  title     = {Accurately and Efficiently Interpreting Human-Robot Instructions of
+               Varying Granularities},
+  journal   = {CoRR},
+  volume    = {abs/1704.06616},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1704.06616},
+  archivePrefix = {arXiv},
+  eprint    = {1704.06616},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/ArumugamKGWT17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/KaramchetiWARGW17,
+  author    = {Siddharth Karamcheti and
+               Edward C. Williams and
+               Dilip Arumugam and
+               Mina Rhee and
+               Nakul Gopalan and
+               Lawson L. S. Wong and
+               Stefanie Tellex},
+  title     = {A Tale of Two DRAGGNs: {A} Hybrid Approach for Interpreting Action-Oriented
+               and Goal-Oriented Instructions},
+  journal   = {CoRR},
+  volume    = {abs/1707.08668},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1707.08668},
+  archivePrefix = {arXiv},
+  eprint    = {1707.08668},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/KaramchetiWARGW17},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1708-00102,
+  author    = {Lucas Lehnert and
+               Stefanie Tellex and
+               Michael L. Littman},
+  title     = {Advantages and Limitations of using Successor Features for Transfer
+               in Reinforcement Learning},
+  journal   = {CoRR},
+  volume    = {abs/1708.00102},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1708.00102},
+  archivePrefix = {arXiv},
+  eprint    = {1708.00102},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-00102},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1708-03655,
+  author    = {Eric Rosen and
+               David Whitney and
+               Elizabeth Phillips and
+               Gary Chien and
+               James Tompkin and
+               George Konidaris and
+               Stefanie Tellex},
+  title     = {Communicating Robot Arm Motion Intent Through Mixed Reality Head-mounted
+               Displays},
+  journal   = {CoRR},
+  volume    = {abs/1708.03655},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1708.03655},
+  archivePrefix = {arXiv},
+  eprint    = {1708.03655},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1708-03655},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1710-00459,
+  author    = {Melrose Roderick and
+               Christopher Grimm and
+               Stefanie Tellex},
+  title     = {Deep Abstract Q-Networks},
+  journal   = {CoRR},
+  volume    = {abs/1710.00459},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1710.00459},
+  archivePrefix = {arXiv},
+  eprint    = {1710.00459},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1710-00459},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1711-07478,
+  author    = {Melrose Roderick and
+               James MacGlashan and
+               Stefanie Tellex},
+  title     = {Implementing the Deep Q-Network},
+  journal   = {CoRR},
+  volume    = {abs/1711.07478},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1711.07478},
+  archivePrefix = {arXiv},
+  eprint    = {1711.07478},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1711-07478},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/corr/abs-1712-01097,
+  author    = {Thomas Kollar and
+               Stefanie Tellex and
+               Matthew R. Walter and
+               Albert Huang and
+               Abraham Bachrach and
+               Sachithra Hemachandra and
+               Emma Brunskill and
+               Ashis Gopal Banerjee and
+               Deb Roy and
+               Seth J. Teller and
+               Nicholas Roy},
+  title     = {Generalized Grounding Graphs: {A} Probabilistic Framework for Understanding
+               Grounded Commands},
+  journal   = {CoRR},
+  volume    = {abs/1712.01097},
+  year      = {2017},
+  url       = {http://arxiv.org/abs/1712.01097},
+  archivePrefix = {arXiv},
+  eprint    = {1712.01097},
+  timestamp = {Mon, 13 Aug 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/corr/abs-1712-01097},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icra/WhitneyEOT16,
+  author    = {David Whitney and
+               Miles Eldon and
+               John Oberlin and
+               Stefanie Tellex},
+  title     = {Interpreting multimodal referring expressions in real time},
+  booktitle = {2016 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2016, Stockholm, Sweden, May 16-21, 2016},
+  pages     = {3331--3338},
+  year      = {2016},
+  crossref  = {DBLP:conf/icra/2016},
+  url       = {https://doi.org/10.1109/ICRA.2016.7487507},
+  doi       = {10.1109/ICRA.2016.7487507},
+  timestamp = {Tue, 25 Jul 2017 15:14:18 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icra/WhitneyEOT16},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/arobots/KnepperTLRR15,
+  author    = {Ross A. Knepper and
+               Stefanie Tellex and
+               Adrian Li and
+               Nicholas Roy and
+               Daniela Rus},
+  title     = {Recovering from failure by asking for help},
+  journal   = {Auton. Robots},
+  volume    = {39},
+  number    = {3},
+  pages     = {347--362},
+  year      = {2015},
+  url       = {https://doi.org/10.1007/s10514-015-9460-1},
+  doi       = {10.1007/s10514-015-9460-1},
+  timestamp = {Mon, 05 Jun 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/arobots/KnepperTLRR15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/jfr/WalterACCDFFFGH15,
+  author    = {Matthew R. Walter and
+               Matthew E. Antone and
+               Ekapol Chuangsuwanich and
+               Andrew Correa and
+               Randall Davis and
+               Luke Fletcher and
+               Emilio Frazzoli and
+               Yuli Friedman and
+               James R. Glass and
+               Jonathan P. How and
+               Jeong Hwan Jeon and
+               Sertac Karaman and
+               Brandon Luders and
+               Nicholas Roy and
+               Stefanie Tellex and
+               Seth J. Teller},
+  title     = {A Situationally Aware Voice-commandable Robotic Forklift Working Alongside
+               People in Unstructured Outdoor Environments},
+  journal   = {J. Field Robotics},
+  volume    = {32},
+  number    = {4},
+  pages     = {590--628},
+  year      = {2015},
+  url       = {https://doi.org/10.1002/rob.21539},
+  doi       = {10.1002/rob.21539},
+  timestamp = {Thu, 15 Jun 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/jfr/WalterACCDFFFGH15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/aips/AbelHBBOMT15,
+  author    = {David Abel and
+               D. Ellis Hershkowitz and
+               Gabriel Barth{-}Maron and
+               Stephen Brawner and
+               Kevin O'Farrell and
+               James MacGlashan and
+               Stefanie Tellex},
+  title     = {Goal-Based Action Priors},
+  booktitle = {Proceedings of the Twenty-Fifth International Conference on Automated
+               Planning and Scheduling, {ICAPS} 2015, Jerusalem, Israel, June 7-11,
+               2015.},
+  pages     = {306--314},
+  year      = {2015},
+  crossref  = {DBLP:conf/aips/2015},
+  url       = {http://www.aaai.org/ocs/index.php/ICAPS/ICAPS15/paper/view/10589},
+  timestamp = {Tue, 12 Jul 2016 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/aips/AbelHBBOMT15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icdl-epirob/OberlinT15,
+  author    = {John Oberlin and
+               Stefanie Tellex},
+  title     = {Learning to pick up objects through active exploration},
+  booktitle = {2015 Joint {IEEE} International Conference on Development and Learning
+               and Epigenetic Robotics, ICDL-EpiRob, Providence, RI, USA, August
+               13-16, 2015},
+  pages     = {252--253},
+  year      = {2015},
+  crossref  = {DBLP:conf/icdl-epirob/2015},
+  url       = {https://doi.org/10.1109/DEVLRN.2015.7346151},
+  doi       = {10.1109/DEVLRN.2015.7346151},
+  timestamp = {Fri, 19 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icdl-epirob/OberlinT15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/isrr/OberlinT15,
+  author    = {John Oberlin and
+               Stefanie Tellex},
+  title     = {Autonomously Acquiring Instance-Based Object Models from Experience},
+  booktitle = {Robotics Research, Proceedings of the 17th International Symposium
+               of Robotics Research, {ISRR} 2015, Sestri Levante, Italy, September
+               12-15, 2015, Volume 2.},
+  pages     = {73--90},
+  year      = {2015},
+  crossref  = {DBLP:conf/isrr/2015-2},
+  url       = {https://doi.org/10.1007/978-3-319-60916-4\_5},
+  doi       = {10.1007/978-3-319-60916-4\_5},
+  timestamp = {Mon, 11 Dec 2017 19:15:27 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/isrr/OberlinT15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/rss/MacGlashanBdLMS15,
+  author    = {James MacGlashan and
+               Monica Babes{-}Vroman and
+               Marie desJardins and
+               Michael L. Littman and
+               Smaranda Muresan and
+               Shawn Squire and
+               Stefanie Tellex and
+               Dilip Arumugam and
+               Lei Yang},
+  title     = {Grounding English Commands to Reward Functions},
+  booktitle = {Robotics: Science and Systems XI, Sapienza University of Rome, Rome,
+               Italy, July 13-17, 2015},
+  year      = {2015},
+  crossref  = {DBLP:conf/rss/2015},
+  url       = {http://www.roboticsproceedings.org/rss11/p18.html},
+  timestamp = {Thu, 27 Oct 2016 10:49:35 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/MacGlashanBdLMS15},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/ijrr/WalterHHTT14,
+  author    = {Matthew R. Walter and
+               Sachithra Hemachandra and
+               Bianca Homberg and
+               Stefanie Tellex and
+               Seth J. Teller},
+  title     = {A framework for learning semantic maps from grounded natural language
+               descriptions},
+  journal   = {I. J. Robotics Res.},
+  volume    = {33},
+  number    = {9},
+  pages     = {1167--1190},
+  year      = {2014},
+  url       = {https://doi.org/10.1177/0278364914537359},
+  doi       = {10.1177/0278364914537359},
+  timestamp = {Thu, 18 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/ijrr/WalterHHTT14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/ml/TellexTJR14,
+  author    = {Stefanie Tellex and
+               Pratiksha Thaker and
+               Joshua Mason Joseph and
+               Nicholas Roy},
+  title     = {Learning perceptually grounded word meanings from unaligned parallel
+               data},
+  journal   = {Machine Learning},
+  volume    = {94},
+  number    = {2},
+  pages     = {151--167},
+  year      = {2014},
+  url       = {https://doi.org/10.1007/s10994-013-5383-2},
+  doi       = {10.1007/s10994-013-5383-2},
+  timestamp = {Tue, 26 Jun 2018 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/ml/TellexTJR14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icra/HemachandraWTT14,
+  author    = {Sachithra Hemachandra and
+               Matthew R. Walter and
+               Stefanie Tellex and
+               Seth J. Teller},
+  title     = {Learning spatial-semantic representations from natural language descriptions
+               and scene classifications},
+  booktitle = {2014 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2014, Hong Kong, China, May 31 - June 7, 2014},
+  pages     = {2623--2630},
+  year      = {2014},
+  crossref  = {DBLP:conf/icra/2014},
+  url       = {https://doi.org/10.1109/ICRA.2014.6907235},
+  doi       = {10.1109/ICRA.2014.6907235},
+  timestamp = {Mon, 22 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icra/HemachandraWTT14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icra/HowardTR14,
+  author    = {Thomas M. Howard and
+               Stefanie Tellex and
+               Nicholas Roy},
+  title     = {A natural language planner interface for mobile manipulators},
+  booktitle = {2014 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2014, Hong Kong, China, May 31 - June 7, 2014},
+  pages     = {6652--6659},
+  year      = {2014},
+  crossref  = {DBLP:conf/icra/2014},
+  url       = {https://doi.org/10.1109/ICRA.2014.6907841},
+  doi       = {10.1109/ICRA.2014.6907841},
+  timestamp = {Mon, 22 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icra/HowardTR14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/rss/TellexKLRR14,
+  author    = {Stefanie Tellex and
+               Ross A. Knepper and
+               Adrian Li and
+               Daniela Rus and
+               Nicholas Roy},
+  title     = {Asking for Help Using Inverse Semantics},
+  booktitle = {Robotics: Science and Systems X, University of California, Berkeley,
+               USA, July 12-16, 2014},
+  year      = {2014},
+  crossref  = {DBLP:conf/rss/2014},
+  url       = {http://www.roboticsproceedings.org/rss10/p24.html},
+  timestamp = {Mon, 13 Jul 2015 12:04:08 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/TellexKLRR14},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/ftml/GeramifardWTCRH13,
+  author    = {Alborz Geramifard and
+               Thomas J. Walsh and
+               Stefanie Tellex and
+               Girish Chowdhary and
+               Nicholas Roy and
+               Jonathan P. How},
+  title     = {A Tutorial on Linear Function Approximators for Dynamic Programming
+               and Reinforcement Learning},
+  journal   = {Foundations and Trends in Machine Learning},
+  volume    = {6},
+  number    = {4},
+  pages     = {375--451},
+  year      = {2013},
+  url       = {https://doi.org/10.1561/2200000042},
+  doi       = {10.1561/2200000042},
+  timestamp = {Wed, 14 Jun 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/ftml/GeramifardWTCRH13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/hri/KnepperTLRR13,
+  author    = {Ross A. Knepper and
+               Stefanie Tellex and
+               Adrian Li and
+               Nicholas Roy and
+               Daniela Rus},
+  title     = {Single assembly robot in search of human partner: versatile grounded
+               language generation},
+  booktitle = {{ACM/IEEE} International Conference on Human-Robot Interaction, {HRI}
+               2013, Tokyo, Japan, March 3-6, 2013},
+  pages     = {167--168},
+  year      = {2013},
+  crossref  = {DBLP:conf/hri/2013},
+  url       = {http://dl.acm.org/citation.cfm?id=2447620},
+  timestamp = {Sat, 09 Mar 2013 13:18:00 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/hri/KnepperTLRR13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/rss/WalterHHTT13,
+  author    = {Matthew R. Walter and
+               Sachithra Hemachandra and
+               Bianca Homberg and
+               Stefanie Tellex and
+               Seth J. Teller},
+  title     = {Learning Semantic Maps from Natural Language Descriptions},
+  booktitle = {Robotics: Science and Systems IX, Technische Universit{\"{a}}t Berlin,
+               Berlin, Germany, June 24 - June 28, 2013},
+  year      = {2013},
+  crossref  = {DBLP:conf/rss/2013},
+  url       = {http://www.roboticsproceedings.org/rss09/p04.html},
+  timestamp = {Tue, 09 Feb 2016 15:15:28 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/WalterHHTT13},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/aim/AgrawalBBCGHHJLLLMPSSSSTV12,
+  author    = {Vikas Agrawal and
+               Jorge Baier and
+               Kostas E. Bekris and
+               Yiling Chen and
+               Artur S. d'Avila Garcez and
+               Pascal Hitzler and
+               Patrik Haslum and
+               Dietmar Jannach and
+               Edith Law and
+               Freddy L{\'{e}}cu{\'{e}} and
+               Lu{\'{\i}}s C. Lamb and
+               Cynthia Matuszek and
+               H{\'{e}}ctor Palacios and
+               Biplav Srivastava and
+               Lokendra Shastri and
+               Nathan R. Sturtevant and
+               Roni Stern and
+               Stefanie Tellex and
+               Stavros Vassos},
+  title     = {Reports of the {AAAI} 2012 Conference Workshops},
+  journal   = {{AI} Magazine},
+  volume    = {33},
+  number    = {4},
+  pages     = {119},
+  year      = {2012},
+  url       = {http://www.aaai.org/ojs/index.php/aimagazine/article/view/2444},
+  timestamp = {Tue, 26 Feb 2013 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/aim/AgrawalBBCGHHJLLLMPSSSSTV12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/iser/BolliniTTRR12,
+  author    = {Mario Bollini and
+               Stefanie Tellex and
+               Tyler Thompson and
+               Nicholas Roy and
+               Daniela Rus},
+  title     = {Interpreting and Executing Recipes with a Cooking Robot},
+  booktitle = {Experimental Robotics - The 13th International Symposium on Experimental
+               Robotics, {ISER} 2012, June 18-21, 2012, Qu{\'{e}}bec City, Canada},
+  pages     = {481--495},
+  year      = {2012},
+  crossref  = {DBLP:conf/iser/2012},
+  url       = {https://doi.org/10.1007/978-3-319-00065-7\_33},
+  doi       = {10.1007/978-3-319-00065-7\_33},
+  timestamp = {Fri, 26 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/iser/BolliniTTRR12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/rss/TellexTDKR12,
+  author    = {Stefanie Tellex and
+               Pratiksha Thaker and
+               Robin Deits and
+               Thomas Kollar and
+               Nicholas Roy},
+  title     = {Toward Information Theoretic Human-Robot Dialog},
+  booktitle = {Robotics: Science and Systems VIII, University of Sydney, Sydney,
+               NSW, Australia, July 9-13, 2012},
+  year      = {2012},
+  crossref  = {DBLP:conf/rss/2012},
+  url       = {http://www.roboticsproceedings.org/rss08/p52.html},
+  timestamp = {Wed, 02 Jan 2013 19:41:54 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/TellexTDKR12},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/aim/TellexKDWBTR11,
+  author    = {Stefanie Tellex and
+               Thomas Kollar and
+               Steven Dickerson and
+               Matthew R. Walter and
+               Ashis Gopal Banerjee and
+               Seth J. Teller and
+               Nicholas Roy},
+  title     = {Approaching the Symbol Grounding Problem with Probabilistic Graphical
+               Models},
+  journal   = {{AI} Magazine},
+  volume    = {32},
+  number    = {4},
+  pages     = {64--76},
+  year      = {2011},
+  url       = {http://www.aaai.org/ojs/index.php/aimagazine/article/view/2384},
+  timestamp = {Tue, 31 Jan 2012 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/bib/journals/aim/TellexKDWBTR11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/aaai/TellexKDWBTR11,
+  author    = {Stefanie Tellex and
+               Thomas Kollar and
+               Steven Dickerson and
+               Matthew R. Walter and
+               Ashis Gopal Banerjee and
+               Seth J. Teller and
+               Nicholas Roy},
+  title     = {Understanding Natural Language Commands for Robotic Navigation and
+               Mobile Manipulation},
+  booktitle = {Proceedings of the Twenty-Fifth {AAAI} Conference on Artificial Intelligence,
+               {AAAI} 2011, San Francisco, California, USA, August 7-11, 2011},
+  year      = {2011},
+  crossref  = {DBLP:conf/aaai/2011},
+  url       = {http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3623},
+  timestamp = {Tue, 09 Aug 2011 07:56:46 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/aaai/TellexKDWBTR11},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/aaaifs/KollarTR10,
+  author    = {Thomas Kollar and
+               Stefanie Tellex and
+               Nicholas Roy},
+  title     = {A Discriminative Model for Understanding Natural Language Route Directions},
+  booktitle = {Dialog with Robots, Papers from the 2010 {AAAI} Fall Symposium, Arlington,
+               Virginia, USA, November 11-13, 2010},
+  year      = {2010},
+  crossref  = {DBLP:conf/aaaifs/2010-5},
+  url       = {http://www.aaai.org/ocs/index.php/FSS/FSS10/paper/view/2195},
+  timestamp = {Wed, 29 Mar 2017 16:45:25 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/aaaifs/KollarTR10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/hri/KollarTRR10,
+  author    = {Thomas Kollar and
+               Stefanie Tellex and
+               Deb Roy and
+               Nicholas Roy},
+  title     = {Toward understanding natural language directions},
+  booktitle = {Proceedings of the 5th {ACM/IEEE} International Conference on Human
+               Robot Interaction, {HRI} 2010, Osaka, Japan, March 2-5, 2010},
+  pages     = {259--266},
+  year      = {2010},
+  crossref  = {DBLP:conf/hri/2010},
+  url       = {http://doi.acm.org/10.1145/1734454.1734553},
+  doi       = {10.1145/1734454.1734553},
+  timestamp = {Thu, 20 Sep 2018 14:50:53 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/hri/KollarTRR10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icmi/TellexKSRR10,
+  author    = {Stefanie Tellex and
+               Thomas Kollar and
+               George Shaw and
+               Nicholas Roy and
+               Deb Roy},
+  title     = {Grounding spatial language for video search},
+  booktitle = {Proceedings of the 12th International Conference on Multimodal Interfaces
+               / 7. International Workshop on Machine Learning for Multimodal Interaction,
+               {ICMI-MLMI} 2010, Beijing, China, November 8-12, 2010},
+  pages     = {31:1--31:8},
+  year      = {2010},
+  crossref  = {DBLP:conf/icmi/2010},
+  url       = {http://doi.acm.org/10.1145/1891903.1891944},
+  doi       = {10.1145/1891903.1891944},
+  timestamp = {Thu, 22 Sep 2016 12:13:24 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icmi/TellexKSRR10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/iros/HuangTBKRR10,
+  author    = {Albert S. Huang and
+               Stefanie Tellex and
+               Abraham Bachrach and
+               Thomas Kollar and
+               Deb Roy and
+               Nicholas Roy},
+  title     = {Natural language command of an autonomous micro-air vehicle},
+  booktitle = {2010 {IEEE/RSJ} International Conference on Intelligent Robots and
+               Systems, October 18-22, 2010, Taipei, Taiwan},
+  pages     = {2663--2669},
+  year      = {2010},
+  crossref  = {DBLP:conf/iros/2010},
+  url       = {https://doi.org/10.1109/IROS.2010.5650910},
+  doi       = {10.1109/IROS.2010.5650910},
+  timestamp = {Mon, 22 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/iros/HuangTBKRR10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/iser/KollarTRR10,
+  author    = {Thomas Kollar and
+               Stefanie Tellex and
+               Deb Roy and
+               Nicholas Roy},
+  title     = {Grounding Verbs of Motion in Natural Language Commands to Robots},
+  booktitle = {Experimental Robotics - The 12th International Symposium on Experimental
+               Robotics, {ISER} 2010, December 18-21, 2010, New Delhi and Agra, India},
+  pages     = {31--47},
+  year      = {2010},
+  crossref  = {DBLP:conf/iser/2010},
+  url       = {https://doi.org/10.1007/978-3-642-28572-1\_3},
+  doi       = {10.1007/978-3-642-28572-1\_3},
+  timestamp = {Fri, 26 May 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/iser/KollarTRR10},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/civr/TellexR09,
+  author    = {Stefanie Tellex and
+               Deb Roy},
+  title     = {Towards surveillance video search by natural language query},
+  booktitle = {Proceedings of the 8th {ACM} International Conference on Image and
+               Video Retrieval, {CIVR} 2009, Santorini Island, Greece, July 8-10,
+               2009},
+  year      = {2009},
+  crossref  = {DBLP:conf/civr/2009},
+  url       = {http://doi.acm.org/10.1145/1646396.1646442},
+  doi       = {10.1145/1646396.1646442},
+  timestamp = {Wed, 18 Nov 2009 11:09:42 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/civr/TellexR09},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icmi/TellexR09,
+  author    = {Stefanie Tellex and
+               Deb Roy},
+  title     = {Grounding spatial prepositions for video search},
+  booktitle = {Proceedings of the 11th International Conference on Multimodal Interfaces,
+               {ICMI} 2009, Cambridge, Massachusetts, USA, November 2-4, 2009},
+  pages     = {253--260},
+  year      = {2009},
+  crossref  = {DBLP:conf/icmi/2009},
+  url       = {http://doi.acm.org/10.1145/1647314.1647369},
+  doi       = {10.1145/1647314.1647369},
+  timestamp = {Mon, 08 Mar 2010 20:14:11 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/icmi/TellexR09},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/connection/HsiaoTVKR08,
+  author    = {Kai{-}yuh Hsiao and
+               Stefanie Tellex and
+               Soroush Vosoughi and
+               Rony Kubat and
+               Deb Roy},
+  title     = {Object schemas for grounding language in a responsive robot},
+  journal   = {Connect. Sci.},
+  volume    = {20},
+  number    = {4},
+  pages     = {253--276},
+  year      = {2008},
+  url       = {https://doi.org/10.1080/09540090802445113},
+  doi       = {10.1080/09540090802445113},
+  timestamp = {Mon, 05 Jun 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/journals/connection/HsiaoTVKR08},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/hri/HsiaoVTKR08,
+  author    = {Kai{-}yuh Hsiao and
+               Soroush Vosoughi and
+               Stefanie Tellex and
+               Rony Kubat and
+               Deb Roy},
+  title     = {Object schemas for responsive robotic language use},
+  booktitle = {Proceedings of the 3rd {ACM/IEEE} international conference on Human
+               robot interaction, {HRI} 2008, Amsterdam, The Netherlands, March 12-15,
+               2008},
+  pages     = {233--240},
+  year      = {2008},
+  crossref  = {DBLP:conf/hri/2008},
+  url       = {http://doi.acm.org/10.1145/1349822.1349853},
+  doi       = {10.1145/1349822.1349853},
+  timestamp = {Fri, 02 Jun 2017 01:00:00 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/hri/HsiaoVTKR08},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/aaaiss/TellexR07,
+  author    = {Stefanie Tellex and
+               Deb Roy},
+  title     = {Grounding Language in Spatial Routines},
+  booktitle = {Control Mechanisms for Spatial Knowledge Processing in Cognitive /
+               Intelligent Systems, Papers from the 2007 {AAAI} Spring Symposium,
+               Technical Report SS-07-01, Stanford, California, USA, March 26-28,
+               2007},
+  pages     = {53--58},
+  year      = {2007},
+  crossref  = {DBLP:conf/aaaiss/2007-1},
+  url       = {http://www.aaai.org/Library/Symposia/Spring/2007/ss07-01-010.php},
+  timestamp = {Fri, 17 Feb 2012 14:13:04 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/aaaiss/TellexR07},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/eelc/RoyPDKFRMTSGLG06,
+  author    = {Deb Roy and
+               Rupal Patel and
+               Philip DeCamp and
+               Rony Kubat and
+               Michael Fleischman and
+               Brandon Roy and
+               Nikolaos Mavridis and
+               Stefanie Tellex and
+               Alexia Salata and
+               Jethran Guinness and
+               Michael Levit and
+               Peter Gorniak},
+  title     = {The Human Speechome Project},
+  booktitle = {Symbol Grounding and Beyond, Third International Workshop on the Emergence
+               and Evolution of Linguistic Communication, {EELC} 2006, Rome, Italy,
+               September 30 - October 1, 2006, Proceedings},
+  pages     = {192--196},
+  year      = {2006},
+  crossref  = {DBLP:conf/eelc/2006},
+  url       = {https://doi.org/10.1007/11880172\_15},
+  doi       = {10.1007/11880172\_15},
+  timestamp = {Fri, 02 Jun 2017 13:01:07 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/eelc/RoyPDKFRMTSGLG06},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/hri/TellexR06,
+  author    = {Stefanie Tellex and
+               Deb Roy},
+  title     = {Spatial routines for a simulated speech-controlled vehicle},
+  booktitle = {Proceedings of the 1st {ACM} {SIGCHI/SIGART} Conference on Human-Robot
+               Interaction, {HRI} 2006, Salt Lake City, Utah, USA, March 2-3, 2006},
+  pages     = {156--163},
+  year      = {2006},
+  crossref  = {DBLP:conf/hri/2006},
+  url       = {http://doi.acm.org/10.1145/1121241.1121269},
+  doi       = {10.1145/1121241.1121269},
+  timestamp = {Wed, 16 May 2007 11:53:42 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/hri/TellexR06},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/huc/VemuriSBTL04,
+  author    = {Sunil Vemuri and
+               Chris Schmandt and
+               Walter Bender and
+               Stefanie Tellex and
+               Brad Lassey},
+  title     = {An Audio-Based Personal Memory Aid},
+  booktitle = {UbiComp 2004: Ubiquitous Computing: 6th International Conference,
+               Nottingham, UK, September 7-10, 2004. Proceedings},
+  pages     = {400--417},
+  year      = {2004},
+  crossref  = {DBLP:conf/huc/2004},
+  url       = {https://doi.org/10.1007/978-3-540-30119-6\_24},
+  doi       = {10.1007/978-3-540-30119-6\_24},
+  timestamp = {Tue, 30 May 2017 12:57:44 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/huc/VemuriSBTL04},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/sigir/TellexKLFM03,
+  author    = {Stefanie Tellex and
+               Boris Katz and
+               Jimmy J. Lin and
+               Aaron Fernandes and
+               Gregory Marton},
+  title     = {Quantitative evaluation of passage retrieval algorithms for question
+               answering},
+  booktitle = {{SIGIR} 2003: Proceedings of the 26th Annual International {ACM} {SIGIR}
+               Conference on Research and Development in Information Retrieval, July
+               28 - August 1, 2003, Toronto, Canada},
+  pages     = {41--47},
+  year      = {2003},
+  crossref  = {DBLP:conf/sigir/2003},
+  url       = {http://doi.acm.org/10.1145/860435.860445},
+  doi       = {10.1145/860435.860445},
+  timestamp = {Wed, 08 Feb 2017 13:37:23 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/sigir/TellexKLFM03},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/trec/LinFKMT02,
+  author    = {Jimmy J. Lin and
+               Aaron Fernandes and
+               Boris Katz and
+               Gregory Marton and
+               Stefanie Tellex},
+  title     = {Extracting Answers from the Web Using Data Annotation and Knowledge
+               Mining Techniques},
+  booktitle = {Proceedings of The Eleventh Text REtrieval Conference, {TREC} 2002,
+               Gaithersburg, Maryland, USA, November 19-22, 2002},
+  year      = {2002},
+  crossref  = {DBLP:conf/trec/2002},
+  url       = {http://trec.nist.gov/pubs/trec11/papers/mit.lin.pdf},
+  timestamp = {Tue, 07 Apr 2015 13:04:03 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/trec/LinFKMT02},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/atal/2018,
+  editor    = {Elisabeth Andr{\'{e}} and
+               Sven Koenig and
+               Mehdi Dastani and
+               Gita Sukthankar},
+  title     = {Proceedings of the 17th International Conference on Autonomous Agents
+               and MultiAgent Systems, {AAMAS} 2018, Stockholm, Sweden, July 10-15,
+               2018},
+  publisher = {International Foundation for Autonomous Agents and Multiagent Systems
+               Richland, SC, {USA} / {ACM}},
+  year      = {2018},
+  url       = {http://dl.acm.org/citation.cfm?id=3237383},
+  timestamp = {Mon, 16 Jul 2018 09:20:52 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/atal/2018},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/icra/2018,
+  title     = {2018 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2018, Brisbane, Australia, May 21-25, 2018},
+  publisher = {{IEEE}},
+  year      = {2018},
+  url       = {http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8449910},
+  isbn      = {978-1-5386-3081-5},
+  timestamp = {Wed, 19 Sep 2018 08:18:13 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icra/2018},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/acl/2017robonlp,
+  editor    = {Mohit Bansal and
+               Cynthia Matuszek and
+               Jacob Andreas and
+               Yoav Artzi and
+               Yonatan Bisk},
+  title     = {Proceedings of the First Workshop on Language Grounding for Robotics,
+               RoboNLP@ACL 2017, Vancouver, Canada, August 3, 2017},
+  publisher = {Association for Computational Linguistics},
+  year      = {2017},
+  url       = {https://aclanthology.info/volumes/proceedings-of-the-first-workshop-on-language-grounding-for-robotics},
+  isbn      = {978-1-945626-64-7},
+  timestamp = {Thu, 25 Jan 2018 15:08:50 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/acl/2017robonlp},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/aips/2017,
+  editor    = {Laura Barbulescu and
+               Jeremy Frank and
+               Mausam and
+               Stephen F. Smith},
+  title     = {Proceedings of the Twenty-Seventh International Conference on Automated
+               Planning and Scheduling, {ICAPS} 2017, Pittsburgh, Pennsylvania, USA,
+               June 18-23, 2017},
+  publisher = {{AAAI} Press},
+  year      = {2017},
+  url       = {http://www.aaai.org/Library/ICAPS/icaps17contents.php},
+  timestamp = {Tue, 26 Sep 2017 07:30:03 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/aips/2017},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/icra/2017,
+  title     = {2017 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2017, Singapore, Singapore, May 29 - June 3, 2017},
+  publisher = {{IEEE}},
+  year      = {2017},
+  url       = {http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7960754},
+  isbn      = {978-1-5090-4633-1},
+  timestamp = {Wed, 26 Jul 2017 15:16:56 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icra/2017},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/rss/2017,
+  editor    = {Nancy M. Amato and
+               Siddhartha S. Srinivasa and
+               Nora Ayanian and
+               Scott Kuindersma},
+  title     = {Robotics: Science and Systems XIII, Massachusetts Institute of Technology,
+               Cambridge, Massachusetts, USA, July 12-16, 2017},
+  year      = {2017},
+  url       = {http://www.roboticsproceedings.org/rss13/},
+  timestamp = {Mon, 15 Jan 2018 18:49:27 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/2017},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/icra/2016,
+  editor    = {Danica Kragic and
+               Antonio Bicchi and
+               Alessandro De Luca},
+  title     = {2016 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2016, Stockholm, Sweden, May 16-21, 2016},
+  publisher = {{IEEE}},
+  year      = {2016},
+  url       = {http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7478842},
+  isbn      = {978-1-4673-8026-3},
+  timestamp = {Tue, 25 Jul 2017 15:14:18 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icra/2016},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/aips/2015,
+  editor    = {Ronen I. Brafman and
+               Carmel Domshlak and
+               Patrik Haslum and
+               Shlomo Zilberstein},
+  title     = {Proceedings of the Twenty-Fifth International Conference on Automated
+               Planning and Scheduling, {ICAPS} 2015, Jerusalem, Israel, June 7-11,
+               2015},
+  publisher = {{AAAI} Press},
+  year      = {2015},
+  url       = {http://www.aaai.org/Library/ICAPS/icaps15contents.php},
+  isbn      = {978-1-57735-731-5},
+  timestamp = {Tue, 26 May 2015 21:03:02 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/aips/2015},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/icdl-epirob/2015,
+  title     = {2015 Joint {IEEE} International Conference on Development and Learning
+               and Epigenetic Robotics, ICDL-EpiRob, Providence, RI, USA, August
+               13-16, 2015},
+  publisher = {{IEEE}},
+  year      = {2015},
+  url       = {http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7332337},
+  isbn      = {978-1-4673-9320-1},
+  timestamp = {Thu, 09 Jun 2016 15:32:50 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icdl-epirob/2015},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/isrr/2015-2,
+  editor    = {Antonio Bicchi and
+               Wolfram Burgard},
+  title     = {Robotics Research, Proceedings of the 17th International Symposium
+               of Robotics Research, {ISRR} 2015, Sestri Levante, Italy, September
+               12-15, 2015, Volume 2},
+  series    = {Springer Proceedings in Advanced Robotics},
+  volume    = {3},
+  publisher = {Springer},
+  year      = {2018},
+  isbn      = {978-3-319-60915-7},
+  timestamp = {Mon, 11 Dec 2017 19:15:27 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/isrr/2015-2},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/rss/2015,
+  editor    = {Lydia E. Kavraki and
+               David Hsu and
+               Jonas Buchli},
+  title     = {Robotics: Science and Systems XI, Sapienza University of Rome, Rome,
+               Italy, July 13-17, 2015},
+  year      = {2015},
+  url       = {http://www.roboticsproceedings.org/rss11/},
+  timestamp = {Thu, 27 Oct 2016 10:49:35 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/2015},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/icra/2014,
+  title     = {2014 {IEEE} International Conference on Robotics and Automation, {ICRA}
+               2014, Hong Kong, China, May 31 - June 7, 2014},
+  publisher = {{IEEE}},
+  year      = {2014},
+  url       = {http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=6895053},
+  timestamp = {Tue, 07 Oct 2014 13:28:38 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icra/2014},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/rss/2014,
+  editor    = {Dieter Fox and
+               Lydia E. Kavraki and
+               Hanna Kurniawati},
+  title     = {Robotics: Science and Systems X, University of California, Berkeley,
+               USA, July 12-16, 2014},
+  year      = {2014},
+  url       = {http://www.roboticsproceedings.org/rss10/},
+  isbn      = {978-0-9923747-0-9},
+  timestamp = {Mon, 13 Jul 2015 12:04:08 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/2014},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/hri/2013,
+  editor    = {Hideaki Kuzuoka and
+               Vanessa Evers and
+               Michita Imai and
+               Jodi Forlizzi},
+  title     = {{ACM/IEEE} International Conference on Human-Robot Interaction, {HRI}
+               2013, Tokyo, Japan, March 3-6, 2013},
+  publisher = {{IEEE/ACM}},
+  year      = {2013},
+  url       = {http://dl.acm.org/citation.cfm?id=2447556},
+  isbn      = {978-1-4673-3055-8},
+  timestamp = {Sat, 09 Mar 2013 13:18:00 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/hri/2013},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/rss/2013,
+  editor    = {Paul Newman and
+               Dieter Fox and
+               David Hsu},
+  title     = {Robotics: Science and Systems IX, Technische Universit{\"{a}}t Berlin,
+               Berlin, Germany, June 24 - June 28, 2013},
+  year      = {2013},
+  url       = {http://www.roboticsproceedings.org/rss09/},
+  isbn      = {978-981-07-3937-9},
+  timestamp = {Tue, 09 Feb 2016 15:15:28 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/2013},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/iser/2012,
+  editor    = {Jaydev P. Desai and
+               Gregory Dudek and
+               Oussama Khatib and
+               Vijay Kumar},
+  title     = {Experimental Robotics - The 13th International Symposium on Experimental
+               Robotics, {ISER} 2012, June 18-21, 2012, Qu{\'{e}}bec City, Canada},
+  series    = {Springer Tracts in Advanced Robotics},
+  volume    = {88},
+  publisher = {Springer},
+  year      = {2013},
+  url       = {https://doi.org/10.1007/978-3-319-00065-7},
+  doi       = {10.1007/978-3-319-00065-7},
+  isbn      = {978-3-319-00064-0},
+  timestamp = {Fri, 26 May 2017 00:50:36 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/iser/2012},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/rss/2012,
+  title     = {Robotics: Science and Systems VIII, University of Sydney, Sydney,
+               NSW, Australia, July 9-13, 2012},
+  year      = {2012},
+  url       = {http://www.roboticsproceedings.org/rss08/},
+  timestamp = {Wed, 02 Jan 2013 19:41:54 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/rss/2012},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/aaai/2011,
+  editor    = {Wolfram Burgard and
+               Dan Roth},
+  title     = {Proceedings of the Twenty-Fifth {AAAI} Conference on Artificial Intelligence,
+               {AAAI} 2011, San Francisco, California, USA, August 7-11, 2011},
+  publisher = {{AAAI} Press},
+  year      = {2011},
+  timestamp = {Tue, 09 Aug 2011 07:56:46 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/aaai/2011},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/aaaifs/2010-5,
+  title     = {Dialog with Robots, Papers from the 2010 {AAAI} Fall Symposium, Arlington,
+               Virginia, USA, November 11-13, 2010},
+  series    = {{AAAI} Technical Report},
+  volume    = {{FS-10-05}},
+  publisher = {{AAAI}},
+  year      = {2010},
+  url       = {http://www.aaai.org/Library/Symposia/Fall/fs10-05.php},
+  timestamp = {Wed, 29 Mar 2017 16:45:25 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/aaaifs/2010-5},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/hri/2010,
+  editor    = {Pamela J. Hinds and
+               Hiroshi Ishiguro and
+               Takayuki Kanda and
+               Peter H. Kahn Jr.},
+  title     = {Proceedings of the 5th {ACM/IEEE} International Conference on Human
+               Robot Interaction, {HRI} 2010, Osaka, Japan, March 2-5, 2010},
+  publisher = {{ACM}},
+  year      = {2010},
+  isbn      = {978-1-4244-4893-7},
+  timestamp = {Thu, 20 Sep 2018 14:50:53 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/hri/2010},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/icmi/2010,
+  editor    = {Wen Gao and
+               Chin{-}Hui Lee and
+               Jie Yang and
+               Xilin Chen and
+               Maxine Esk{\'{e}}nazi and
+               Zhengyou Zhang},
+  title     = {Proceedings of the 12th International Conference on Multimodal Interfaces
+               / 7. International Workshop on Machine Learning for Multimodal Interaction,
+               {ICMI-MLMI} 2010, Beijing, China, November 8-12, 2010},
+  publisher = {{ACM}},
+  year      = {2010},
+  url       = {http://doi.acm.org/10.1145/1891903},
+  doi       = {10.1145/1891903},
+  isbn      = {978-1-4503-0414-6},
+  timestamp = {Thu, 22 Sep 2016 12:13:24 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/icmi/2010},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/iros/2010,
+  title     = {2010 {IEEE/RSJ} International Conference on Intelligent Robots and
+               Systems, October 18-22, 2010, Taipei, Taiwan},
+  publisher = {{IEEE}},
+  year      = {2010},
+  url       = {http://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=5639431},
+  isbn      = {978-1-4244-6674-0},
+  timestamp = {Mon, 11 May 2015 16:37:25 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/iros/2010},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/iser/2010,
+  editor    = {Oussama Khatib and
+               Vijay Kumar and
+               Gaurav S. Sukhatme},
+  title     = {Experimental Robotics - The 12th International Symposium on Experimental
+               Robotics, {ISER} 2010, December 18-21, 2010, New Delhi and Agra, India},
+  series    = {Springer Tracts in Advanced Robotics},
+  volume    = {79},
+  publisher = {Springer},
+  year      = {2014},
+  url       = {https://doi.org/10.1007/978-3-642-28572-1},
+  doi       = {10.1007/978-3-642-28572-1},
+  isbn      = {978-3-642-28571-4},
+  timestamp = {Fri, 26 May 2017 00:50:36 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/iser/2010},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/civr/2009,
+  editor    = {St{\'{e}}phane Marchand{-}Maillet and
+               Yiannis Kompatsiaris},
+  title     = {Proceedings of the 8th {ACM} International Conference on Image and
+               Video Retrieval, {CIVR} 2009, Santorini Island, Greece, July 8-10,
+               2009},
+  publisher = {{ACM}},
+  year      = {2009},
+  isbn      = {978-1-60558-480-5},
+  timestamp = {Wed, 18 Nov 2009 11:09:42 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/civr/2009},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/icmi/2009,
+  editor    = {James L. Crowley and
+               Yuri A. Ivanov and
+               Christopher Richard Wren and
+               Daniel Gatica{-}Perez and
+               Michael Johnston and
+               Rainer Stiefelhagen},
+  title     = {Proceedings of the 11th International Conference on Multimodal Interfaces,
+               {ICMI} 2009, Cambridge, Massachusetts, USA, November 2-4, 2009},
+  publisher = {{ACM}},
+  year      = {2009},
+  isbn      = {978-1-60558-772-1},
+  timestamp = {Mon, 08 Mar 2010 20:14:11 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/icmi/2009},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/hri/2008,
+  editor    = {Terry Fong and
+               Kerstin Dautenhahn and
+               Matthias Scheutz and
+               Yiannis Demiris},
+  title     = {Proceedings of the 3rd {ACM/IEEE} international conference on Human
+               robot interaction, {HRI} 2008, Amsterdam, The Netherlands, March 12-15,
+               2008},
+  publisher = {{ACM}},
+  year      = {2008},
+  isbn      = {978-1-60558-017-3},
+  timestamp = {Tue, 10 Mar 2009 22:22:14 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/hri/2008},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/aaaiss/2007-1,
+  title     = {Control Mechanisms for Spatial Knowledge Processing in Cognitive /
+               Intelligent Systems, Papers from the 2007 {AAAI} Spring Symposium,
+               Technical Report SS-07-01, Stanford, California, USA, March 26-28,
+               2007},
+  publisher = {{AAAI}},
+  year      = {2007},
+  url       = {http://www.aaai.org/Library/Symposia/Spring/ss07-01.php},
+  timestamp = {Fri, 17 Feb 2012 14:13:04 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/aaaiss/2007-1},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/eelc/2006,
+  editor    = {Paul Vogt and
+               Yuuga Sugita and
+               Elio Tuci and
+               Chrystopher L. Nehaniv},
+  title     = {Symbol Grounding and Beyond, Third International Workshop on the Emergence
+               and Evolution of Linguistic Communication, {EELC} 2006, Rome, Italy,
+               September 30 - October 1, 2006, Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {4211},
+  publisher = {Springer},
+  year      = {2006},
+  url       = {https://doi.org/10.1007/11880172},
+  doi       = {10.1007/11880172},
+  isbn      = {3-540-45769-0},
+  timestamp = {Fri, 02 Jun 2017 13:01:07 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/eelc/2006},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/hri/2006,
+  editor    = {Michael A. Goodrich and
+               Alan C. Schultz and
+               David J. Bruemmer},
+  title     = {Proceedings of the 1st {ACM} {SIGCHI/SIGART} Conference on Human-Robot
+               Interaction, {HRI} 2006, Salt Lake City, Utah, USA, March 2-3, 2006},
+  publisher = {{ACM}},
+  year      = {2006},
+  isbn      = {1-59593-294-1},
+  timestamp = {Wed, 16 May 2007 11:53:42 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/hri/2006},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/huc/2004,
+  editor    = {Nigel Davies and
+               Elizabeth D. Mynatt and
+               Itiro Siio},
+  title     = {UbiComp 2004: Ubiquitous Computing: 6th International Conference,
+               Nottingham, UK, September 7-10, 2004. Proceedings},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {3205},
+  publisher = {Springer},
+  year      = {2004},
+  url       = {https://doi.org/10.1007/b99948},
+  doi       = {10.1007/b99948},
+  isbn      = {3-540-22955-8},
+  timestamp = {Tue, 30 May 2017 12:57:44 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/huc/2004},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/sigir/2003,
+  editor    = {Charles L. A. Clarke and
+               Gordon V. Cormack and
+               Jamie Callan and
+               David Hawking and
+               Alan F. Smeaton},
+  title     = {{SIGIR} 2003: Proceedings of the 26th Annual International {ACM} {SIGIR}
+               Conference on Research and Development in Information Retrieval, July
+               28 - August 1, 2003, Toronto, Canada},
+  publisher = {{ACM}},
+  year      = {2003},
+  url       = {http://doi.acm.org/10.1145/860435},
+  doi       = {10.1145/860435},
+  isbn      = {1-58113-646-3},
+  timestamp = {Wed, 08 Feb 2017 13:37:23 +0100},
+  biburl    = {https://dblp.org/rec/bib/conf/sigir/2003},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
+@proceedings{DBLP:conf/trec/2002,
+  editor    = {Ellen M. Voorhees and
+               Lori P. Buckland},
+  title     = {Proceedings of The Eleventh Text REtrieval Conference, {TREC} 2002,
+               Gaithersburg, Maryland, USA, November 19-22, 2002},
+  volume    = {Special Publication 500-251},
+  publisher = {National Institute of Standards and Technology {(NIST)}},
+  year      = {2002},
+  url       = {http://trec.nist.gov/pubs/trec11/t11\_proceedings.html},
+  timestamp = {Tue, 07 Apr 2015 13:04:03 +0200},
+  biburl    = {https://dblp.org/rec/bib/conf/trec/2002},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+
