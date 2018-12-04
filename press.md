@@ -17,8 +17,6 @@ show_tile: true
 		</header>
 <!-- Content -->
 <h2 id="content">2018</h2>
-<p> I've got good news and bad news. The bad news is: I haven't added all the good news yet! </p>
-
 <ul>
 
 <li> <strong>The Serious Security Problem Looming Over Robotics</strong>, August 24, 2018. Retrieved at: <a href="https://www.wired.com/story/security-robotics/">https://www.wired.com/story/security-robotics/</a></li>
@@ -82,7 +80,5 @@ Retrieved at <a href="https://pratt.duke.edu/about/news/robotic-motion-planning-
 <!-- <li><strong>Five Questions with Stefanie Tellex</strong>, January 27, 2016. Retrieved at: <a href="http://pbn.com/Five-Questions-With-Stefanie-Tellex,111670">http://pbn.com/Five-Questions-With-Stefanie-Tellex,111670</a></li> -->
 
 </ul>
-
-<h2 id="content">(to be continued!)</h2>
 </div>
 </section>

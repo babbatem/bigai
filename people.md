@@ -153,7 +153,7 @@ show_tile: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> ____, the KUKA iiwa</h3>
+					<h3> ____, the KUKA iiwa7</h3>
 				</header>
 				<p> We just got a KUKA, who is yet to be named! </p>
 			</div>
