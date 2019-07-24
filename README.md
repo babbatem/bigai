@@ -1,8 +1,8 @@
 # bigAI website!
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+Based on a Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+![:P](assets/images/bigai/bigai_color500.png "Forty Theme")
 
 # How to Use
 
