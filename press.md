@@ -15,14 +15,40 @@ show_tile: true
 		<header class="major">
 			<h1>Press</h1>
 		</header>
+
 <!-- Content -->
+<h2 id="content">2019</h2>
+<ul>
+
+<li> <strong> Brown CS Undergraduate Atsunobu Kotani Teaches Robots Handwriting And Drawing</strong>, June 18, 2019 . Retrieved at: <a href="http://cs.brown.edu/news/2019/06/18/brown-cs-undergraduate-atsunobu-kotani-teaches-robots-handwriting-and-drawing/">http://cs.brown.edu/news/2019/06/18/brown-cs-undergraduate-atsunobu-kotani-teaches-robots-handwriting-and-drawing/</a></li>
+
+
+<li> <strong> Michael Littman Has Been Named An ACM Fellow</strong>, June 17, 2019. Retrieved at: <a href="http://cs.brown.edu/news/2019/06/17/michael-littman-has-been-named-acm-fellow/">http://cs.brown.edu/news/2019/06/17/michael-littman-has-been-named-acm-fellow/</a>. See also: <a href="https://www.acm.org/media-center/2018/december/fellows-2018">https://www.acm.org/media-center/2018/december/fellows-2018</a></li>
+
+<li> <strong> David Abel Wins A Presidential Award For Excellence In Teaching</strong>, May 20, 2019. Retrieved at: <a href="http://cs.brown.edu/news/2019/05/20/david-abel-wins-presidential-award-excellence-teaching/">http://cs.brown.edu/news/2019/05/20/david-abel-wins-presidential-award-excellence-teaching/</a></li>
+
+<li> <strong> George Konidaris Wins An NSF CAREER Award For Autonomous Robotic Learning</strong>, April 18, 2019 . Retrieved at: <a href="http://cs.brown.edu/news/2019/04/18/george-konidaris-wins-nsf-career-award-autonomous-robotic-learning/">http://cs.brown.edu/news/2019/04/18/george-konidaris-wins-nsf-career-award-autonomous-robotic-learning/</a></li>
+
+
+<li> <strong> Rhode Island Robot Block Party Returns On April 13</strong>, March 6, 2019. Retrieved at: <a href="http://cs.brown.edu/news/2019/03/06/rhode-island-robot-block-party-returns-april-13/">http://cs.brown.edu/news/2019/03/06/rhode-island-robot-block-party-returns-april-13/</a></li>
+
+<li> <strong> Evan Cater Wins The Randy F. Pausch Computer Science Undergraduate Summer Research Award</strong>, February 28, 2019. Retrieved at: <a href="http://cs.brown.edu/news/2019/02/28/evan-cater-wins-randy-f-pausch-computer-science-undergraduate-summer-research-award/">http://cs.brown.edu/news/2019/02/28/evan-cater-wins-randy-f-pausch-computer-science-undergraduate-summer-research-award/</a></li>
+
+<li> <strong> Nakul Gopalan, Eric Rosen, Daniel Ullman, And David Whitney Win The Hyundai Visionary Challenge</strong>, January 18, 2019. Retrieved at: <a href="http://cs.brown.edu/news/2019/01/18/nakul-gopalan-eric-rosen-daniel-ullman-david-whitney-win-hyundai-visionary-challenge/">http://cs.brown.edu/news/2019/01/18/nakul-gopalan-eric-rosen-daniel-ullman-david-whitney-win-hyundai-visionary-challenge/</a></li>
+
+</ul>
 <h2 id="content">2018</h2>
 <ul>
+
+<li> <strong> Michael Littman Receives Brown's Presidential Faculty Award</strong>, October 5, 2018. Retrieved at: <a href="http://cs.brown.edu/news/2018/10/05/michael-littman-receives-browns-presidential-faculty-award/">http://cs.brown.edu/news/2018/10/05/michael-littman-receives-browns-presidential-faculty-award/</a></li>
 
 <li> <strong>The Serious Security Problem Looming Over Robotics</strong>, August 24, 2018. Retrieved at: <a href="https://www.wired.com/story/security-robotics/">https://www.wired.com/story/security-robotics/</a></li>
 
 <li> <strong>Undergraduate team helps to develop drone-based intro robotics course</strong>, August 17, 2018. Retrieved at:
 <a href="https://news.brown.edu/articles/2018/08/droneutra">https://news.brown.edu/articles/2018/08/droneutra</a></li>
+
+<li> <strong>Tellex's Outreach Inspires A High School Student To Study CS, Then Teach</strong>, August 2, 2018. Retrieved at:
+<a href="http://cs.brown.edu/news/2018/08/02/tellexs-outreach-inspires-high-school-student-study-robotics-then-teach/">http://cs.brown.edu/news/2018/08/02/tellexs-outreach-inspires-high-school-student-study-robotics-then-teach/</a></li>
 
 <li> <strong>Hordes of Research Robots Could be Hijacked for Fun and Sabotage</strong>, July 24, 2018. Retrieved at: <a href="https://www.technologyreview.com/s/611704/hordes-of-research-robots-could-be-hijacked-for-fun-and-sabotage/">https://www.technologyreview.com/s/611704/hordes-of-research-robots-could-be-hijacked-for-fun-and-sabotage/</a></li>
 

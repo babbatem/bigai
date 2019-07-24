@@ -8,11 +8,33 @@
 
 <head>
 	<title>bigAI</title>
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({
+	    extensions: [
+	      "MathMenu.js",
+	      "MathZoom.js",
+	      "AssistiveMML.js",
+	      "a11y/accessibility-menu.js"
+	    ],
+	    jax: ["input/TeX", "output/CommonHTML"],
+	    TeX: {
+	      extensions: [
+	        "AMSmath.js",
+	        "AMSsymbols.js",
+	        "noErrors.js",
+	        "noUndefined.js",
+	      ]
+	    }
+	  });
+	</script>
+	<script type="text/javascript" async
+  	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+	</script>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="/assets/css/main.css" />
-	<link rel="icon" href="assets/images/favicon2.png">
+	<link rel="icon" href="assets/images/bigai/bigai_favicon.png">
 	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 </head>
@@ -25,7 +47,10 @@
 
 <!-- Header -->
 <header id="header">
-	<a href="/" class="logo"><strong>bigAI</strong> <span>at Brown</span></a>
+	<!-- <a href="http://localhost:4000//" class="logo"><strong>bigAI</strong> <span>at Brown</span></a> -->
+	<a href="http://localhost:4000//" class="image">
+		<img src="assets/images/bigai/bigai_websiteheader_white.png" alt="" data-position="center center" style="width:auto;height:30;"/>
+	</a>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -40,7 +65,9 @@
 		    
 		
 		    
-		        <li><a href="/">Home</a></li>
+		
+		    
+		        <li><a href="http://localhost:4000//">Home</a></li>
 	    	
 		
 		    
@@ -51,13 +78,15 @@
 		
 		    
 		
-		    
-		
 		
 		    
 		
 		    
-		        <li><a href="/about.html">About</a></li>
+		        <li><a href="http://localhost:4000/about.html">About</a></li>
+		    
+		
+		    
+		        <li><a href="http://localhost:4000/all_posts.html">Blog</a></li>
 		    
 		
 		    
@@ -65,17 +94,15 @@
 		    
 		
 		    
-		        <li><a href="/people.html">People</a></li>
+		        <li><a href="http://localhost:4000/people.html">People</a></li>
 		    
 		
 		    
-		        <li><a href="/press.html">Press</a></li>
+		        <li><a href="http://localhost:4000/press.html">Press</a></li>
 		    
 		
 		    
-		        <li><a href="/pubs.html">Publications</a></li>
-		    
-		
+		        <li><a href="http://localhost:4000/pubs.html">Publications</a></li>
 		    
 		
 	</ul>
@@ -84,9 +111,9 @@
 		<li><a href="#" class="button fit">Log In</a></li>
 	</ul>
 </nav>
- 
-    
-    
+
+
+
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -186,13 +213,13 @@
 </div>
 
 <!-- Scripts -->
-	<script src="/assets/js/jquery.min.js"></script>
-	<script src="/assets/js/jquery.scrolly.min.js"></script>
-	<script src="/assets/js/jquery.scrollex.min.js"></script>
-	<script src="/assets/js/skel.min.js"></script>
-	<script src="/assets/js/util.js"></script>
-	<!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
-	<script src="/assets/js/main.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.min.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.scrolly.min.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.scrollex.min.js"></script>
+	<script src="http://localhost:4000/assets/js/skel.min.js"></script>
+	<script src="http://localhost:4000/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="http://localhost:4000/assets/js/main.js"></script>
 
 
 </body>

@@ -12,6 +12,7 @@ tiles-count: 25
 
 # build settings
 markdown: kramdown
+mathjax: true
 
 sass:
   style: compressed

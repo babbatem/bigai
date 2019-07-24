@@ -8,11 +8,33 @@
 
 <head>
 	<title>bigAI</title>
+	<script type="text/x-mathjax-config">
+	  MathJax.Hub.Config({
+	    extensions: [
+	      "MathMenu.js",
+	      "MathZoom.js",
+	      "AssistiveMML.js",
+	      "a11y/accessibility-menu.js"
+	    ],
+	    jax: ["input/TeX", "output/CommonHTML"],
+	    TeX: {
+	      extensions: [
+	        "AMSmath.js",
+	        "AMSsymbols.js",
+	        "noErrors.js",
+	        "noUndefined.js",
+	      ]
+	    }
+	  });
+	</script>
+	<script type="text/javascript" async
+  	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+	</script>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 	<!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
 	<link rel="stylesheet" href="/assets/css/main.css" />
-	<link rel="icon" href="assets/images/favicon2.png">
+	<link rel="icon" href="assets/images/bigai/bigai_favicon.png">
 	<!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
 	<!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
 </head>
@@ -25,7 +47,10 @@
 
 <!-- Header -->
 <header id="header">
-	<a href="/" class="logo"><strong>bigAI</strong> <span>at Brown</span></a>
+	<!-- <a href="http://localhost:4000//" class="logo"><strong>bigAI</strong> <span>at Brown</span></a> -->
+	<a href="http://localhost:4000//" class="image">
+		<img src="assets/images/bigai/bigai_websiteheader_white.png" alt="" data-position="center center" style="width:auto;height:30;"/>
+	</a>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -40,7 +65,9 @@
 		    
 		
 		    
-		        <li><a href="/">Home</a></li>
+		
+		    
+		        <li><a href="http://localhost:4000//">Home</a></li>
 	    	
 		
 		    
@@ -51,13 +78,15 @@
 		
 		    
 		
-		    
-		
 		
 		    
 		
 		    
-		        <li><a href="/about.html">About</a></li>
+		        <li><a href="http://localhost:4000/about.html">About</a></li>
+		    
+		
+		    
+		        <li><a href="http://localhost:4000/all_posts.html">Blog</a></li>
 		    
 		
 		    
@@ -65,17 +94,15 @@
 		    
 		
 		    
-		        <li><a href="/people.html">People</a></li>
+		        <li><a href="http://localhost:4000/people.html">People</a></li>
 		    
 		
 		    
-		        <li><a href="/press.html">Press</a></li>
+		        <li><a href="http://localhost:4000/press.html">Press</a></li>
 		    
 		
 		    
-		        <li><a href="/pubs.html">Publications</a></li>
-		    
-		
+		        <li><a href="http://localhost:4000/pubs.html">Publications</a></li>
 		    
 		
 	</ul>
@@ -84,9 +111,9 @@
 		<li><a href="#" class="button fit">Log In</a></li>
 	</ul>
 </nav>
- 
-    
-    
+
+
+
 <!-- Main -->
 <div id="main" class="alt">
 
@@ -96,7 +123,7 @@
 		<header class="major">
 			<h1>People</h1>
 		</header>
-		<span class="image main"><img src="/assets/images/stefie-crouch.jpg_large" alt="" /></span>
+		<span class="image main"><img src="/assets/images/bigai_movie_poster_cs_headshots.png" alt="" /></span>
 		<p><!-- Main -->
 <div id="main">
 
@@ -110,52 +137,89 @@
 	</div>
 </section>
 
-<!-- Two -->
+
 <section id="two" class="spotlights">
+	<!-- Stefanie -->
 	<section>
 		<a href="http://h2r.cs.brown.edu/" class="image">
-			<img src="assets/images/stefie-smile-onstage.jpg" alt="" data-position="center center" />
+			<img src="assets/images/stefie-smile-onstage.jpg" alt="" data-position="center center" style="width:auto;height:200px;" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Stefanie Tellex</h3>
 				</header>
-				<p>Stefanie is the director of the Humans To Robots Lab. </p>
+				<p> Professor Tellex is the director of the Humans To Robots Lab. </p>
 				<ul class="actions">
 					<li><a href="http://h2r.cs.brown.edu/" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	<!-- GDK -->
 	<section>
 		<a href="http://irl.cs.brown.edu/" class="image">
-			<img src="assets/images/gdk-headshot.jpg" alt="" data-position="top center" />
+			<img src="assets/images/gdk-headshot.jpg" alt="" data-position="center center" style="width:auto;height:200px;" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>George Konidaris </h3>
 				</header>
-				<p>George is the director of the Intelligent Robot Lab. </p>
+				<p> Professor Konidaris is the director of the Intelligent Robot Lab. </p>
 				<ul class="actions">
 					<li><a href="http://irl.cs.brown.edu/" class="button">Learn More</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
+	<!-- Michael -->
 	<section>
 		<a href="http://cs.brown.edu/~mlittman/" class="image">
-			<img src="assets/images/michael-large.jpg" alt="" data-position="top center" />
+			<img src="assets/images/michael-large.jpg" alt="" data-position="center center" style="width:auto;height:200px;" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Michael Littman </h3>
 				</header>
-				<p>Michael leads the Reinforcement Learning &amp; Adaptive Behavior group (RLAB), as well as serving as Co-Director of the <a href="https://hcri.brown.edu/"> Humanity Centered Robotics initiative</a>. </p>
+				<p>Professor Littman leads the Reinforcement Learning &amp; Adaptive Behavior group (RLAB), as well as serving as Co-Director of the <a href="https://hcri.brown.edu/"> Humanity Centered Robotics initiative</a>. </p>
 				<ul class="actions">
 					<li><a href="http://cs.brown.edu/~mlittman/" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- Ellie -->
+	<section>
+		<a href="https://cs.brown.edu/people/epavlick/" class="image">
+			<img src="assets/images/epavlick_photo_.jpg" alt="" data-position="center center" style="width:auto;height:200px;" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Ellie Pavlick </h3>
+				</header>
+				<p> Professor Pavlick studies computational models of natural language semantics and pragmatics. She leads the Language Understanding And Representation (LUNAR) Lab. </p>
+				<ul class="actions">
+					<li><a href="https://cs.brown.edu/people/epavlick/" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<!-- Eugene -->
+	<section>
+		<a href="http://cs.brown.edu/people/echarnia/" class="image">
+			<img src="assets/images/charniak-medium.png" alt="" style="width:auto;height:200px;" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Eugene Charniak</h3>
+				</header>
+				<p> Professor Charniak directs the Brown Laboratory for Linguistic Information Processing (BLLIP). </p>
+				<ul class="actions">
+					<li><a href="http://cs.brown.edu/people/echarnia/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -187,14 +251,14 @@
 <section id="two" class="spotlights">
 	<section>
 		<a>
-			<img src="assets/images/misstick.png" alt="" data-position="center center" />
+			<img src="assets/images/movo_uke.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3> Miss Tick, the Movo</h3>
 				</header>
-				<p> The Movo is our new mobile manipulation platform from Kinova Robotics. Miss Tick is quite impressive: she can <a href="https://www.youtube.com/watch?v=no7pUj1zD4o"> play the ukulele </a> and knows how to write several alphabets! </p>
+				<p> The Movo is our mobile manipulation platform from Kinova Robotics. Miss Tick is quite impressive: she can <a href="https://www.youtube.com/watch?v=no7pUj1zD4o"> play the ukulele </a> and <a href="https://www.brown.edu/news/2019-05-15/robowrite"> knows how to write several alphabets! </a>  </p>
 			</div>
 		</div>
 	</section>
@@ -243,13 +307,48 @@
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3> ____, the KUKA iiwa7</h3>
+					<h3> Detritus, the KUKA iiwa7</h3>
 				</header>
-				<p> We just got a KUKA, who is yet to be named! </p>
+				<p> Detritus is learning to grasp and manipulate objects. </p>
 			</div>
 		</div>
 	</section>
 </section>
+
+<!-- Amazon Kuka -->
+<section id="two" class="spotlights">
+	<section>
+		<a>
+			<img src="assets/images/LBRiiwa.png" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3> Dorfl, the KUKA iiwa7</h3>
+				</header>
+				<p> We recently received another KUKA iiwa7 from Amazon Robotics. Dorfl is learning motor skills with imitation learning. </p>
+			</div>
+		</div>
+	</section>
+</section>
+
+<!-- KURI -->
+<section id="two" class="spotlights">
+	<section>
+		<a>
+			<img src="assets/images/Kuri_Catalog_Frt_HR_v3a_8bit.0.webp" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3> Kuri </h3>
+				</header>
+				<p> Our Kuri robots are learning to recognize human activities and answer queries about them. In the meantime, they sing pancake songs, meow with pleasure, and constantly drive into things. </p>
+			</div>
+		</div>
+	</section>
+</section>
+
 
 
 <!-- Three -->
@@ -357,13 +456,13 @@
 </div>
 
 <!-- Scripts -->
-	<script src="/assets/js/jquery.min.js"></script>
-	<script src="/assets/js/jquery.scrolly.min.js"></script>
-	<script src="/assets/js/jquery.scrollex.min.js"></script>
-	<script src="/assets/js/skel.min.js"></script>
-	<script src="/assets/js/util.js"></script>
-	<!--[if lte IE 8]><script src="/assets/js/ie/respond.min.js"></script><![endif]-->
-	<script src="/assets/js/main.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.min.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.scrolly.min.js"></script>
+	<script src="http://localhost:4000/assets/js/jquery.scrollex.min.js"></script>
+	<script src="http://localhost:4000/assets/js/skel.min.js"></script>
+	<script src="http://localhost:4000/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="http://localhost:4000/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="http://localhost:4000/assets/js/main.js"></script>
 
 
 </body>
