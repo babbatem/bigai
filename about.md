@@ -1,5 +1,5 @@
 ---
-layout: post_fixed_img
+layout: about
 title: About
 description: Learn about bigAI.
 image: assets/images/bigai/bigai_color500.png
