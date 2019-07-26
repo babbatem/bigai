@@ -4,6 +4,7 @@ title: Press
 nav-menu: true
 image: assets/images/baxter-flower.jpg
 show_tile: true
+description: read about bigai in the press. 
 ---
 
 <!-- Main -->
