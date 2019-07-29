@@ -2,7 +2,7 @@
 title: People
 layout: post
 description: 'Meet the professors and students.'
-image: assets/images/bigai_movie_poster_cs_headshots.png
+image: assets/images/professor_movie_poster/draft0.png
 nav-menu: true
 show_tile: true
 ---
@@ -129,8 +129,11 @@ show_tile: true
 		<header class="major">
 			<h2>That's all, folks. </h2>
 		</header>
-		<p> Check out bigAI in the press, and see our publications.
+		<p> Meet the robots, check out bigAI in the press, and see our publications.
 		 </p>
+		 <ul class="actions">
+ 			<li><a href="robots.html" class="button next">Robots</a></li>
+ 		</ul>
 		<ul class="actions">
 			<li><a href="press.html" class="button next">Press</a></li>
 		</ul>
