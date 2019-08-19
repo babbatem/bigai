@@ -1,7 +1,7 @@
 # site settings
 title: bigAI
 subtitle: at Brown
-description: Brown Integrated General Artifical Intelligence
+description: Brown Integrative, General Artifical Intelligence
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "bigai.cs.brown.edu" # the base hostname & protocol for your site
 
@@ -13,6 +13,6 @@ tiles-count: 25
 # build settings
 markdown: kramdown
 mathjax: true
-
+encoding: utf-8
 sass:
   style: compressed
