@@ -11,6 +11,7 @@ tiles-count: 25
 
 
 # build settings
+# permalink: pretty
 markdown: kramdown
 mathjax: true
 encoding: utf-8

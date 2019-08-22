@@ -1,10 +1,10 @@
 ---
-layout: allposts
+layout: allposts_landing
 title: Blog
 landing-title: 'Blog'
 nav-menu: true
 description: read about recent work.
-image: assets/images/movo_uke.png
+image: /assets/images/movo_uke.png
 author: null
 show_tile: true
 

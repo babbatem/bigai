@@ -24,13 +24,13 @@
 		</header>
 		{% if page.image %}
       <span class="image main">
-           <img src="{{ site.baseurl }}/{{ page.image }}"
+           <img src="{{ page.image }}"
                 alt="" style="width:auto;
-                              height:10px;
+                              height:auto;
                               margin:auto
-                              position:relative;
+                              /* position:relative;
                               top:100px;
-                              left:10px"
+                              left:10px" */
                                />
       </span>
     {% endif %}
