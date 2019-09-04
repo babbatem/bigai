@@ -19,9 +19,17 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
-		</header>
+    <div class="inner" align="center">
+  		<header align="center" class="major">
+  			<h1>{{ page.title }}</h1>
+        <p align="center">
+          <font size="+0.5"><i>{{ page.author }}</i></font>
+        </p>
+        <p align="center">
+          <i>{{ page.day }}</i>
+        </p>
+  		</header>
+    </div>
 		{% if page.image %}
       <span class="image main">
            <img src="{{ page.image }}"
@@ -34,7 +42,9 @@
                                />
       </span>
     {% endif %}
-		<p>{{ content }}</p>
+    <div class="inner" align="justify">
+		    <p>{{ page.content }}</p>
+    </div>
 	</div>
 </section>
 
