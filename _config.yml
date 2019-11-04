@@ -17,3 +17,5 @@ mathjax: true
 encoding: utf-8
 sass:
   style: compressed
+
+plugins: ['jekyll-twitter-plugin']
